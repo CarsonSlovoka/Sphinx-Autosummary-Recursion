@@ -1,0 +1,12 @@
+MANIFEST
+dist/
+build/
+temp/
+docs/en/
+docs/zh_TW/
+_autosummary/
+.idea/
+*.pyc
+*egg-info
+
+typing_drop_down/words.txt

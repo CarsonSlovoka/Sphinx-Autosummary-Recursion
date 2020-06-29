@@ -1,3 +1,5 @@
+{# attributes List containing names of “public” attributes in the class/module. #}
+
 {{ fullname | escape | underline}}
 
 .. automodule:: {{ fullname }}

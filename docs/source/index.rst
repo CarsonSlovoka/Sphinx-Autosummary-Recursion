@@ -20,3 +20,15 @@ documentation for that attribute, class, function or exception.
    :recursive:
 
    mytoolbox
+
+
+REFERENCE
+================
+
+- Stackoverflow
+
+    - `sphinx-autodoc is not automatic enough <https://stackoverflow.com/questions/2701998/sphinx-autodoc-is-not-automatic-enough/62613202#62613202>`_
+    - `How can I get Sphinx autosummary to generate full API documentation <https://stackoverflow.com/questions/61576683/how-can-i-get-sphinx-autosummary-to-generate-full-api-documentation-for-classes>`_
+
+`autosummary customizing templates <https://www.sphinx-doc.org/en/3.x/usage/extensions/autosummary.html#customizing-templates>`_
+`rubric <https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html?highlight=rubric#directive-rubric>`_
